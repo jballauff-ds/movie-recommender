@@ -8,6 +8,6 @@ popularity based recommender: recommend movies by avarage ratings and number of 
 
 item based recommender: recommend movies based on cosine similarities with the user's top rated movies
 
-user based: recommends movies based on a SVD machine learning model trained with surprise (for details on model selections an tuning see the python scripts in src/model_evaluation
+user based recommender: recommends movies based on a SVD machine learning model trained with surprise (for details on model selections an tuning see the python scripts in src/model_evaluation
 
 ## To use the app click [here](https://movie-recommender-jb.streamlit.app/)
